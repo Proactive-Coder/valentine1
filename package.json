@@ -2,9 +2,8 @@
   "name": "valentine-website",
   "version": "1.0.0",
   "private": true,
-  "type": "module",
   "engines": {
-    "node": "18.x"
+    "node": "24.x"
   },
   "dependencies": {
     "nodemailer": "^6.10.1"
