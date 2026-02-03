@@ -1,7 +1,7 @@
 {
   "name": "valentine-website",
   "version": "1.0.0",
-  "description": "Beautiful Valentine's Day Website",
+  "description": "Valentine Website",
   "scripts": {
     "dev": "vercel dev"
   },
