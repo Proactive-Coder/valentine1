@@ -6,6 +6,6 @@
     "node": "18.x"
   },
   "dependencies": {
-    "nodemailer": "^6.9.4"
+    "nodemailer": "^6.10.1"
   }
 }
