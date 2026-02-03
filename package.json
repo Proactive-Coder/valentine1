@@ -1,0 +1,18 @@
+{
+  "name": "valentine-website",
+  "version": "1.0.0",
+  "description": "Beautiful Valentine's Day Website",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "nodemailer": "^6.9.4"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": "18.x"
+  }
+}

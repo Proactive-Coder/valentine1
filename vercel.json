@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "buildCommand": "echo 'Build complete'",
+  "outputDirectory": "public",
+  "devCommand": "echo 'Dev mode'",
+  "routes": [
+    {
+      "src": "/api/(.*)",
+      "dest": "/api/$1"
+    }
+  ]
+}
