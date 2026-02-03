@@ -1,14 +1,7 @@
 {
   "name": "valentine-website",
   "version": "1.0.0",
-  "description": "Valentine Website",
-  "scripts": {
-    "dev": "vercel dev"
-  },
   "dependencies": {
     "nodemailer": "^6.9.4"
-  },
-  "engines": {
-    "node": "18.x"
   }
 }

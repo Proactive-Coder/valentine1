@@ -1,6 +1,6 @@
 // api/send_valentine.js - Vercel Serverless Function
 
-const nodemailer = require('nodemailer');
+import nodemailer from 'nodemailer';
 
 export default async function handler(req, res) {
   // Enable CORS
